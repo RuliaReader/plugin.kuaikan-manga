@@ -1,0 +1,9 @@
+{
+  "name": "@rulia/kuaikan-manga",
+  "title": "Kuaikan Manga",
+  "description": "快看漫画插件.",
+  "version": "<VERSION>",
+  "author": "shiluo34",
+  "tags": ["Kuaikan", "Manga"],
+  "homepage": "https://github.com/RuliaReader/plugin.kuaikan-manga"
+}
